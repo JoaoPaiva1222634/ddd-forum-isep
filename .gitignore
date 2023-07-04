@@ -3,6 +3,8 @@
 npm-debug.log
 .DS_Store
 /templates
+package.json
+package-lock.json
 # Local Netlify folder
 .netlify
 /dist
